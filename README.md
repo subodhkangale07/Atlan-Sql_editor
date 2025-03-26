@@ -67,7 +67,7 @@ To ensure a fast and smooth experience, we implemented the following optimizatio
 
 ## Live Demo
 
-[View deployed application](https://your-deployed-app-url.vercel.app)
+[View deployed application](https://atlan-sql-editor-c8v6vunjl-subodhs-projects-22110ac3.vercel.app/)
 
 ## Installation
 
